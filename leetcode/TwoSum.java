@@ -22,8 +22,8 @@ public class TwoSum
       System.out.print("{");
       for(int i : answer){
         System.out.print( i + ",");
-      }System.out.print("}");
-
+      }
+      System.out.print("}");
     }
   }
 	
